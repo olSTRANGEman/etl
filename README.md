@@ -60,4 +60,4 @@ $ python3 main_pategan_experiment.py --data_no 10000 --data_dim 10 --noise_rate 
 
 -   results: performances of Original and Synthetic performances
 -   train_data: original data
--   synth_train_data: synthetically generated data
+-   synth_train_data: synthetically generated data# etl
