@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import argparse
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import pairwise_distances
 from sklearn.cluster import KMeans
@@ -54,9 +55,14 @@ def kmeans_coreset(X, k):
     return indices
 
 
-def main(dataset):
+def main():
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--file", required=True, help="path to TRAIN CSV")
+    args = parser.parse_args()
+
     # === Load dataset ===
-    df = pd.read_csv(dataset)
+    df = pd.read_csv(args.file)
 
     X = df.iloc[:, 1:].values
     y = df.iloc[:, 0].values
@@ -81,8 +87,7 @@ def main(dataset):
     df_subset = df.iloc[subset_indices].reset_index(drop=True)
 
     # Save subset as CSV
-    df_subset.to_csv(f"subset_{dataset}", index=False)
+    df_subset.to_csv(f"subset.csv", index=False)
 
 if __name__ == "__main__":
-    for i in range(1, 6):
-        main(f'datab{i}.csv')
+    main()
