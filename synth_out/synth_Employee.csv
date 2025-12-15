@@ -1,0 +1,13 @@
+EmployeeId,LastName,FirstName,Title,ReportsTo,BirthDate,HireDate,Address,City,State,Country,PostalCode,Phone,Fax,Email
+1376603,Smith,David,Sales Support Agent,4.0,1956-01-02 10:47:15,2003-08-13 20:28:22,5827 Bowness Road NW,North Roger,Oregon,Canada,43603,+1 (403) 246-9887,+1 (403) 263-4289,vbrown@example.org
+6609257,Russell,Stacy,Sales Support Agent,1.0,1971-09-14 05:50:50,2003-02-27 12:12:02,5827 Bowness Road NW,South Jorge,New Mexico,Canada,62656,+1 (403) 246-9887,+1 (403) 263-4289,simmonsjessica@example.org
+8515915,Gonzalez,Jennifer,Sales Support Agent,1.0,1970-12-25 19:15:54,2002-04-01 00:00:00,7727B 41 Ave,Daughertychester,North Dakota,Canada,73974,1 (780) 836-9987,+1 (403) 263-4289,hesterangela@example.com
+1395950,Trevino,Dakota,General Manager,1.0,1964-07-04 23:25:56,2002-04-01 00:00:00,683 10 Street SW,Kellyburgh,Maine,Canada,57690,+1 (403) 263-4423,+1 (403) 262-3322,garciapatrick@example.net
+10952083,Medina,Jill,Sales Support Agent,,1962-05-03 11:45:53,2003-04-27 05:58:23,590 Columbia Boulevard West,Port Julia,Connecticut,Canada,75570,+1 (403) 456-9986,+1 (403) 246-9899,collinscaroline@example.net
+1198549,Thompson,Rachel,IT Manager,6.0,1955-10-19 18:46:15,2004-01-01 22:00:33,923 7 ST NW,Avilaland,Maryland,Canada,64185,+1 (403) 456-9986,+1 (403) 467-8772,brian54@example.org
+3127000,Edwards,Jennifer,IT Staff,1.0,1973-08-17 10:37:12,2003-10-02 05:47:13,923 7 ST NW,New Veronicaberg,Maine,Canada,15947,+1 (403) 467-3351,+1 (403) 467-8772,thomaswhite@example.com
+12955650,Thomas,Tonya,Sales Support Agent,1.0,1969-04-24 01:27:19,2002-07-07 23:57:58,7727B 41 Ave,South Cesarbury,Kansas,Canada,51447,1 (780) 836-9987,+1 (403) 262-6712,deannamason@example.com
+14517453,Holland,Lindsay,IT Staff,4.0,1953-03-02 05:15:57,2004-01-01 19:40:34,923 7 ST NW,Salinasville,Texas,Canada,31877,+1 (403) 456-9986,+1 (403) 467-8772,helliott@example.com
+15656527,Welch,Charles,IT Staff,4.0,1967-12-19 09:53:05,2003-11-25 06:43:48,590 Columbia Boulevard West,Williamtown,West Virginia,Canada,68012,+1 (403) 456-9986,1 (780) 836-9543,fcarter@example.net
+475780,Lowery,Vicki,General Manager,1.0,1973-08-10 05:13:52,2002-04-01 00:00:00,825 8 Ave SW,New Shelley,Rhode Island,Canada,90227,+1 (780) 428-9482,+1 (780) 428-3457,crystal18@example.net
+15750564,Ramirez,Joshua,Sales Support Agent,,1968-04-29 20:29:32,2003-12-29 17:04:37,923 7 ST NW,Laurabury,Iowa,Canada,74235,+1 (403) 456-9986,+1 (403) 456-8485,robindixon@example.org

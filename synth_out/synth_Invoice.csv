@@ -1,0 +1,619 @@
+InvoiceId,CustomerId,InvoiceDate,BillingAddress,BillingCity,BillingState,BillingCountry,BillingPostalCode,Total
+12301733,3743119,2012-02-13 08:22:44,194A Chain Lake Drive,Lake Angela,Washington,Canada,06185,0.99
+13166449,3743119,2013-10-28 16:39:37,194A Chain Lake Drive,Perkinschester,,Canada,09432,0.99
+4217794,3743119,2012-05-19 20:24:04,194A Chain Lake Drive,West Oscarburgh,,Canada,90182,10.7
+15197440,3743119,2010-11-10 07:37:07,194A Chain Lake Drive,North Jasonview,Wyoming,Canada,48127,6.58
+16342662,3743119,2009-04-12 01:51:00,194A Chain Lake Drive,Ayalaville,New Jersey,USA,68207,4.82
+13610658,3743119,2011-03-02 00:29:09,194A Chain Lake Drive,Darrenstad,California,Canada,25480,6.14
+8745204,3743119,2013-12-22 00:00:00,194A Chain Lake Drive,Martinton,,USA,50175,9.0
+12757318,3743119,2011-12-18 13:51:43,194A Chain Lake Drive,Jenniferville,Arizona,USA,42356,8.96
+163005,11400474,2010-09-28 07:13:07,5112 48 Street,Merrittborough,,Brazil,90397,6.09
+8558575,11400474,2011-09-23 22:48:21,5112 48 Street,Rickeyville,,Brazil,45266,14.01
+5472503,11400474,2013-10-07 10:28:29,Rua da Assunção 53,Dixonside,Illinois,Spain,26035,0.99
+10211388,11400474,2011-07-29 23:21:22,Rua da Assunção 53,South Jennifertown,Georgia,Portugal,31628,6.92
+1914563,11400474,2009-01-31 11:42:40,Rua da Assunção 53,Castrostad,,Netherlands,06245,0.99
+13327643,11400474,2009-08-26 20:02:08,Rua da Assunção 53,Lake Denise,Alabama,Portugal,51187,7.75
+8429019,11400474,2013-07-23 20:23:18,Rua da Assunção 53,Lake Danielstad,Mississippi,Brazil,71945,13.53
+2686959,11400474,2012-04-01 11:38:51,Rua da Assunção 53,Wadechester,Arizona,Portugal,25405,5.26
+12684278,14940305,2010-10-14 18:22:06,307 Macacha Güemes,North Kimberly,,Italy,39494,5.49
+15469113,14940305,2011-07-27 22:23:27,307 Macacha Güemes,Rachelfurt,,Italy,46527,0.99
+9887414,14940305,2009-01-01 00:00:00,307 Macacha Güemes,West Melanie,,Italy,32876,9.82
+15195502,14940305,2010-03-04 10:31:06,307 Macacha Güemes,Shannonberg,South Carolina,Poland,20172,3.23
+7023983,14940305,2011-10-02 18:01:53,"12,Community Centre",East Kristyburgh,Florida,Finland,85678,11.82
+586410,14940305,2012-07-12 00:56:36,307 Macacha Güemes,Lake Christopher,Colorado,Denmark,11164,5.39
+3664713,14940305,2012-05-29 08:57:06,307 Macacha Güemes,New Anthonyfurt,Nebraska,Italy,31703,0.99
+2246238,4189025,2013-03-04 13:12:33,700 W Pender Street,East Breanna,South Dakota,Chile,19113,8.48
+15182290,4189025,2013-08-28 11:55:21,700 W Pender Street,Lake Erinshire,Mississippi,Australia,08677,6.98
+6934586,4189025,2010-08-04 15:24:40,700 W Pender Street,East Sandrachester,,United Kingdom,11662,0.99
+1545293,4189025,2010-04-29 14:51:49,700 W Pender Street,Ashleyburgh,,Australia,09700,0.99
+1902692,4189025,2011-06-21 15:55:47,Qe 7 Bloco G,New Michael,,United Kingdom,16876,9.39
+15836338,4189025,2011-09-16 22:44:51,700 W Pender Street,Port John,Louisiana,United Kingdom,38894,9.42
+11056861,4189025,2011-08-04 17:36:18,1033 N Park Ave,Arthurfurt,Illinois,United Kingdom,90394,6.12
+11675498,5531748,2013-05-29 23:25:26,Sønder Boulevard 51,New Brenda,Florida,Canada,84168,11.21
+9561047,5531748,2013-12-22 00:00:00,Sønder Boulevard 51,Lake Richard,Florida,Canada,49024,12.64
+11389474,5531748,2009-12-12 07:32:31,Sønder Boulevard 51,New Lisa,Florida,Canada,08221,14.24
+16009234,5531748,2011-10-11 13:12:33,Sønder Boulevard 51,Josephbury,,Canada,04272,9.42
+11423627,5531748,2010-08-14 20:20:43,Sønder Boulevard 51,Tracyport,,USA,32843,0.99
+1224186,5531748,2011-08-22 17:58:37,Sønder Boulevard 51,Whiteside,Pennsylvania,Canada,50021,2.2
+13092292,5531748,2012-05-05 11:12:01,Sønder Boulevard 51,Lesterburgh,,Canada,94160,8.4
+11059446,15497828,2010-03-08 09:03:49,"Praça Pio X, 119",Paulstad,,Poland,21026,3.02
+39910,15497828,2011-01-20 23:59:58,"Praça Pio X, 119",South Andre,,Austria,62734,0.99
+10210688,15497828,2009-01-13 00:04:11,"Praça Pio X, 119",West Nicoleshire,,Hungary,79526,8.25
+1873918,15497828,2012-02-17 23:13:17,"Praça Pio X, 119",Arnoldview,Alaska,Poland,47016,7.19
+3761155,15497828,2012-06-17 19:31:43,"Praça Pio X, 119",Fletchershire,Arizona,Hungary,03297,14.18
+504803,15497828,2012-08-17 18:37:35,"Praça Pio X, 119",Lake Manuel,Michigan,Austria,88350,3.84
+6054893,15497828,2011-07-16 06:20:33,"Praça Pio X, 119",New Amy,Massachusetts,Hungary,69891,0.99
+8387240,6618535,2010-07-12 11:16:51,Ordynacka 10,East Jameschester,Nevada,Czech Republic,78964,7.95
+4814174,6618535,2009-01-01 00:00:00,Ordynacka 10,Port Christina,,Czech Republic,96556,13.76
+9259051,6618535,2013-12-22 00:00:00,"Via Degli Scipioni, 43",Sanchezville,Vermont,Czech Republic,77161,9.72
+15023746,6618535,2010-10-20 14:01:42,Ordynacka 10,North Kathleen,,Sweden,47980,6.76
+15343798,6618535,2012-11-18 15:36:13,Ordynacka 10,Lake Michaelburgh,Louisiana,Spain,46568,0.99
+8869343,6618535,2010-06-15 18:25:42,Ordynacka 10,Smithland,,Sweden,50865,3.79
+10341895,6618535,2009-10-24 13:40:43,Ordynacka 10,South Dawnmouth,Montana,Czech Republic,33455,12.77
+15078731,11866230,2011-10-05 02:29:55,"3,Raj Bhavan Road",Williamfort,New Jersey,India,08106,12.03
+7508248,11866230,2009-11-06 15:47:48,"3,Raj Bhavan Road",Hernandezfort,Utah,India,11207,9.19
+107494,11866230,2012-07-22 14:33:51,"3,Raj Bhavan Road",Robertshire,,India,80627,4.12
+6872464,11866230,2010-06-02 14:44:27,"3,Raj Bhavan Road",Ochoaburgh,Idaho,Chile,44001,13.41
+3165660,11866230,2011-11-19 01:24:15,"Calle Lira, 198",West Wyattborough,Minnesota,United Kingdom,39957,0.99
+7136818,11866230,2011-05-24 19:42:58,"Calle Lira, 198",North Williammouth,,Chile,97949,5.85
+13917905,11866230,2011-02-09 11:37:13,"3,Raj Bhavan Road",Lake Melissa,,Brazil,98358,3.75
+11270522,7462295,2012-02-19 23:49:19,69 Salem Street,Abbottshire,,Canada,59321,1.82
+4004354,7462295,2013-08-17 23:28:17,69 Salem Street,Lake Brittany,Maryland,Canada,75366,5.31
+7123307,7462295,2009-11-26 09:37:22,69 Salem Street,East Jose,,Canada,13278,0.99
+9088273,7462295,2010-04-12 04:17:05,69 Salem Street,Lake Susan,Iowa,Belgium,20993,9.02
+4602149,7462295,2009-04-01 23:14:17,Berger Straße 10,West Jade,,Canada,70467,1.69
+9794191,7462295,2011-08-29 05:49:57,69 Salem Street,East Christianfurt,Michigan,Canada,89889,10.68
+14570789,7462295,2013-12-22 00:00:00,69 Salem Street,Colemanview,North Carolina,Canada,48732,12.84
+11143798,1868666,2009-05-05 01:38:19,"12,Community Centre",Amberburgh,West Virginia,Austria,94199,4.58
+12914406,1868666,2010-09-01 22:17:57,"Rua dos Campeões Europeus de Viena, 4350",Hallburgh,New Hampshire,Poland,74738,10.66
+16580748,1868666,2012-03-06 23:20:46,"12,Community Centre",Millermouth,,Hungary,40603,8.5
+8409417,1868666,2010-12-21 17:59:53,"Rua dos Campeões Europeus de Viena, 4350",Port Joseph,Illinois,Austria,17061,9.05
+16220879,1868666,2010-10-07 01:44:53,"12,Community Centre",East Rachelborough,Michigan,Argentina,80439,1.52
+9064439,1868666,2010-07-16 07:43:49,"Rua dos Campeões Europeus de Viena, 4350",Danielburgh,,Austria,95423,3.22
+12249065,1868666,2012-02-28 02:35:01,"Rua dos Campeões Europeus de Viena, 4350",East Erin,,Denmark,35161,9.87
+9422,13290253,2011-01-11 10:21:49,Tauentzienstraße 8,East Jenna,,Poland,63888,0.99
+15668378,13290253,2012-08-11 14:47:18,Tauentzienstraße 8,South Rebecca,,Austria,89220,3.07
+2477791,13290253,2009-04-13 03:50:03,Rua da Assunção 53,Caldwellstad,Virginia,Denmark,92809,12.69
+5931549,13290253,2013-02-21 19:08:30,Tauentzienstraße 8,Port Kyleburgh,Pennsylvania,Denmark,35389,11.47
+10290914,13290253,2010-04-13 16:20:11,Tauentzienstraße 8,Lake Kevin,Oklahoma,Argentina,68339,2.42
+7591168,13290253,2011-07-12 05:29:22,Tauentzienstraße 8,Lake Bobbyshire,Maine,Hungary,59716,4.06
+1003720,13290253,2011-08-26 17:11:49,Tauentzienstraße 8,South Amy,,Poland,16792,8.61
+15871316,15079325,2011-02-10 05:57:09,1 Infinite Loop,Millsfort,,Belgium,35149,4.05
+1048744,15079325,2011-11-24 23:09:06,1 Infinite Loop,Port Amberstad,,Canada,25500,0.99
+12910069,15079325,2010-08-20 07:08:03,1 Infinite Loop,Grosston,Tennessee,Germany,44167,5.32
+9557858,15079325,2011-05-12 10:10:28,1 Infinite Loop,Williamsstad,Hawaii,Canada,30962,13.02
+7113444,15079325,2013-08-29 18:06:16,1 Infinite Loop,New Katherineland,Alaska,Germany,75037,9.73
+10939364,15079325,2012-01-28 20:55:11,1 Infinite Loop,Toniborough,,Norway,62230,7.55
+4231590,15079325,2010-05-20 16:58:44,1 Infinite Loop,West Robert,California,Norway,91328,0.99
+15850414,7155223,2011-02-06 04:48:59,"9, Place Louis Barthou",Christianmouth,Nebraska,Canada,18386,0.99
+15344238,7155223,2011-02-09 02:36:42,"9, Place Louis Barthou",Sarahport,Arizona,Canada,49088,0.99
+9350549,7155223,2013-12-22 00:00:00,3 Chatham Street,South Patrickland,Wyoming,Canada,73842,6.28
+12505629,7155223,2012-08-02 04:28:45,"9, Place Louis Barthou",East Stevenshire,,USA,65546,7.98
+9241834,7155223,2011-06-02 03:30:33,3 Chatham Street,Moonview,,Canada,80062,10.47
+6835695,7155223,2010-07-29 10:27:36,3 Chatham Street,South Lisa,,Canada,67483,8.39
+10095983,7155223,2012-09-08 04:02:40,"9, Place Louis Barthou",Timothyborough,Florida,Canada,71985,2.01
+11427419,14472760,2013-01-06 08:34:07,Rilská 3174/6,Paulbury,,Canada,38569,7.45
+5320905,14472760,2011-10-13 04:38:48,Rilská 3174/6,West Dylanburgh,Kentucky,Canada,88994,14.87
+3335278,14472760,2013-03-04 09:39:51,Rilská 3174/6,South Mario,,Canada,74067,3.84
+14450300,14472760,2010-10-16 01:09:26,Rilská 3174/6,East Amandachester,Michigan,Canada,09204,5.04
+14567444,14472760,2013-12-22 00:00:00,113 Lupus St,North Chelseaport,,Canada,56171,1.81
+1100182,14472760,2011-06-06 19:48:18,Rilská 3174/6,Port Gabriel,Iowa,Canada,94550,5.0
+1379572,14472760,2009-03-31 18:57:49,Rilská 3174/6,Lake James,Louisiana,Canada,74000,10.68
+16031858,4879839,2012-08-18 16:26:06,1498 rue Bélanger,North Danny,New Mexico,Spain,52625,10.25
+1720738,4879839,2010-10-29 10:33:29,1498 rue Bélanger,Arroyotown,Delaware,Sweden,48588,7.16
+13184626,4879839,2011-01-28 01:13:58,1498 rue Bélanger,East Gabrielaport,Virginia,Netherlands,06656,3.97
+10214870,4879839,2010-09-04 02:40:46,1498 rue Bélanger,Alexanderland,,Spain,73956,0.99
+1663530,4879839,2011-12-23 04:52:56,1498 rue Bélanger,North Kennethberg,Delaware,Portugal,62949,11.97
+15519058,4879839,2011-07-01 09:41:36,1498 rue Bélanger,Masonport,,Netherlands,08043,7.56
+12535733,4879839,2009-09-17 03:31:46,1498 rue Bélanger,Robintown,,Netherlands,69510,0.99
+2569650,2668209,2013-04-14 19:21:32,Erzsébet krt. 58.,Brettburgh,,Canada,83839,8.21
+7375960,2668209,2013-01-14 07:33:57,Erzsébet krt. 58.,Halebury,Georgia,Canada,26845,1.72
+12885428,2668209,2009-06-13 13:13:19,Erzsébet krt. 58.,South Vincent,,Canada,66926,6.48
+448673,2668209,2011-09-04 13:46:27,120 S Orange Ave,North Riley,,Canada,86044,0.99
+7479291,2668209,2011-06-13 20:40:03,Erzsébet krt. 58.,East Robert,Rhode Island,Canada,10250,10.89
+368844,2668209,2013-03-06 03:04:17,Erzsébet krt. 58.,Susanside,Maine,Canada,62088,5.86
+12495092,2668209,2012-04-12 06:58:54,Erzsébet krt. 58.,Christopherbury,Massachusetts,Canada,07342,0.99
+11323384,11106852,2011-04-04 08:45:20,1 Microsoft Way,Port Tinaside,,France,54164,6.59
+7897636,11106852,2013-12-22 00:00:00,1 Microsoft Way,Christopherburgh,,France,66303,7.45
+4747619,11106852,2010-11-23 19:31:50,1600 Amphitheatre Parkway,Evelynfort,Mississippi,France,99025,13.72
+10467508,11106852,2011-12-16 08:33:36,1 Microsoft Way,West Tiffany,Texas,France,53845,10.12
+11518122,11106852,2010-06-12 01:24:05,1600 Amphitheatre Parkway,Mcdanieltown,Florida,France,26455,0.99
+7444990,11106852,2011-12-04 15:54:53,1600 Amphitheatre Parkway,Westmouth,,France,18461,2.23
+10641910,11106852,2013-12-22 00:00:00,1 Microsoft Way,Wagnerfort,Missouri,France,69557,7.79
+10967328,7890652,2010-09-29 12:08:12,"Av. Paulista, 2022",North Sharon,,Australia,51046,3.64
+13008317,7890652,2009-11-04 17:17:01,"Av. Paulista, 2022",South Paulfort,Idaho,Chile,89574,0.99
+1099628,7890652,2011-04-13 04:15:36,"Av. Paulista, 2022",Johnfurt,Oklahoma,Ireland,61109,4.68
+328752,7890652,2009-11-24 13:08:06,"Av. Paulista, 2022",Port James,Georgia,Australia,13051,12.36
+4956517,7890652,2012-09-24 06:15:59,"Av. Paulista, 2022",Lynnchester,,United Kingdom,38863,9.23
+836788,7890652,2012-03-02 21:33:57,"Av. Paulista, 2022",Perryshire,Oregon,Chile,60914,6.71
+530044,7890652,2011-08-04 06:36:03,"Av. Paulista, 2022",Jasonmouth,,Australia,99111,0.99
+3532546,4235323,2011-05-02 20:49:46,Tauentzienstraße 8,Leestad,,Brazil,53528,7.52
+1230004,4235323,2010-06-06 16:54:45,Tauentzienstraße 8,Taylorbury,,Brazil,12110,7.93
+1379560,4235323,2009-01-04 18:02:26,Rua da Assunção 53,East Melissa,,India,07580,0.99
+7669149,4235323,2009-06-23 15:01:33,Tauentzienstraße 8,New Brookeland,North Carolina,India,08477,9.1
+3383905,4235323,2013-04-27 18:34:14,Rua da Assunção 53,Carterside,Alaska,India,52186,0.99
+16008982,4235323,2012-01-27 09:55:26,Tauentzienstraße 8,Anthonyton,Maine,India,45077,9.31
+6986835,4235323,2009-06-08 07:18:59,Tauentzienstraße 8,New Hollyburgh,Wyoming,Chile,69937,12.04
+1985102,13361162,2012-05-20 18:21:58,Porthaninkatu 9,East Johnmouth,,USA,53565,1.86
+2369853,13361162,2011-05-24 04:26:09,Porthaninkatu 9,South Thomas,Pennsylvania,USA,98808,0.99
+3356170,13361162,2009-02-04 09:45:53,Porthaninkatu 9,Coltonside,Rhode Island,USA,74716,7.49
+6999764,13361162,2010-11-17 05:01:10,Porthaninkatu 9,Emilyport,North Dakota,USA,54209,7.3
+681467,13361162,2013-01-28 10:14:31,Sønder Boulevard 51,Christopherhaven,Virginia,USA,66823,12.12
+13315193,13361162,2012-09-26 00:18:11,Sønder Boulevard 51,Kevinside,,USA,41437,4.31
+4859025,13361162,2009-09-16 14:50:24,Porthaninkatu 9,Dawnville,,USA,95383,0.99
+7755751,12455195,2010-11-06 02:50:20,"3,Raj Bhavan Road",Jocelynhaven,Colorado,USA,70569,5.0
+10852503,12455195,2010-05-07 14:17:31,"3,Raj Bhavan Road",West Stephanie,Missouri,USA,73122,9.96
+9492484,12455195,2009-10-22 08:20:47,"3,Raj Bhavan Road",New Barryport,Alaska,USA,42995,7.98
+12421057,12455195,2013-04-14 03:53:39,"3,Raj Bhavan Road",Edwinshire,,USA,04012,9.07
+5770338,12455195,2010-11-01 17:59:27,"3,Raj Bhavan Road",Lisamouth,,USA,10272,2.71
+11686401,12455195,2012-06-02 17:31:34,"3,Raj Bhavan Road",Josephburgh,,USA,05928,3.61
+11167899,12455195,2010-07-03 23:49:30,"3,Raj Bhavan Road",Jonathanfurt,Connecticut,Canada,76006,7.35
+16681194,621587,2009-11-23 15:47:42,801 W 4th Street,Shawnfurt,Kentucky,USA,17183,1.65
+13983699,621587,2010-01-19 08:28:52,801 W 4th Street,Port Rickyshire,Illinois,USA,86008,5.16
+11269993,621587,2012-06-08 09:11:02,1 Infinite Loop,East Jessica,,USA,35085,13.16
+7278624,621587,2010-01-14 04:49:56,801 W 4th Street,Port Maryburgh,Montana,USA,79402,4.44
+11525302,621587,2013-10-19 13:09:33,801 W 4th Street,New Markbury,,USA,79371,1.2
+16697107,621587,2011-01-29 10:22:17,801 W 4th Street,South Patrick,South Dakota,USA,43811,2.19
+13744824,621587,2009-07-19 01:30:39,801 W 4th Street,Robertland,,USA,02962,13.82
+8248063,10641458,2011-02-03 05:57:19,230 Elgin Street,Elizabethburgh,Montana,Brazil,63398,9.04
+13469658,10641458,2009-03-23 21:12:47,230 Elgin Street,Mooreborough,,Portugal,74964,4.92
+11372781,10641458,2012-10-12 00:39:55,230 Elgin Street,Allenborough,,Netherlands,21525,11.94
+767893,10641458,2010-03-06 06:50:10,230 Elgin Street,Lake Stephenburgh,Hawaii,Portugal,97134,4.08
+4382565,10641458,2013-07-11 21:56:34,230 Elgin Street,East Kevinshire,Illinois,Portugal,39970,4.94
+16017107,10641458,2011-11-22 19:24:38,796 Dundas Street West,Chandlermouth,Idaho,Brazil,42676,5.71
+4337720,10641458,2010-02-18 00:46:29,230 Elgin Street,South Pamelahaven,,Portugal,26849,7.55
+12645361,6609461,2010-11-19 14:10:04,5112 48 Street,Duncanchester,,Spain,72111,2.9
+11302181,6609461,2011-12-12 22:16:35,5112 48 Street,North Alyssaton,,Portugal,66915,2.74
+6657361,6609461,2010-01-15 14:10:21,Rua da Assunção 53,East Joshua,Utah,Czech Republic,79365,1.43
+11172419,6609461,2013-06-05 05:39:31,5112 48 Street,North Patrickshire,Maryland,Sweden,84994,9.3
+9322240,6609461,2009-04-05 03:26:54,5112 48 Street,South Jill,North Carolina,Czech Republic,66328,11.95
+9829737,6609461,2011-06-13 21:02:52,5112 48 Street,Rogerton,Tennessee,Spain,49667,7.76
+3792404,6609461,2012-10-18 01:32:10,5112 48 Street,North Crystalside,,Portugal,85648,0.99
+8944229,2191037,2011-02-05 03:04:00,194A Chain Lake Drive,Mossborough,,United Kingdom,59733,0.99
+15928319,2191037,2010-09-04 01:05:27,194A Chain Lake Drive,Smithmouth,,United Kingdom,04969,7.58
+5450890,2191037,2013-12-22 00:00:00,319 N. Frances Street,Lake Shanetown,,United Kingdom,93641,0.99
+4471854,2191037,2013-05-30 03:41:10,319 N. Frances Street,Jenniferfurt,Alabama,United Kingdom,85773,0.99
+7015382,2191037,2011-04-23 18:44:43,319 N. Frances Street,Andrewshire,Utah,United Kingdom,91852,13.03
+7337609,2191037,2010-11-06 14:54:14,319 N. Frances Street,Port Davidview,Connecticut,United Kingdom,10066,7.06
+1922266,2191037,2010-10-03 17:33:37,194A Chain Lake Drive,North Sandra,Arkansas,United Kingdom,52020,6.7
+15920894,3137408,2013-08-12 16:32:11,"Av. Paulista, 2022",West Steven,,USA,08281,6.98
+2623342,3137408,2013-12-22 00:00:00,"Av. Paulista, 2022",Kimton,,USA,59936,13.31
+14760423,3137408,2012-05-19 09:03:49,"Via Degli Scipioni, 43",Pattersonchester,Arkansas,Canada,34275,0.99
+3600137,3137408,2012-11-26 23:32:07,"Via Degli Scipioni, 43",Mitchellchester,Michigan,USA,21459,0.99
+11762796,3137408,2009-01-01 00:00:00,"Via Degli Scipioni, 43",Coreyfort,North Dakota,USA,36828,1.3
+12356126,3137408,2011-08-13 01:17:18,"Via Degli Scipioni, 43",Andradebury,,USA,19938,6.01
+3033326,3137408,2013-12-22 00:00:00,"Av. Paulista, 2022",Georgehaven,New York,USA,24119,14.67
+14099205,4795263,2010-06-12 21:53:12,"8, Rue Hanovre",North Amystad,,Canada,92630,4.24
+619340,4795263,2011-06-14 23:50:25,"8, Rue Hanovre",Christinefort,Maine,Canada,18238,4.78
+12109375,4795263,2012-01-31 01:53:08,"8, Rue Hanovre",South Meganberg,South Carolina,Canada,45780,9.63
+14129509,4795263,2011-11-03 08:09:05,"8, Rue Hanovre",North Cynthiaside,Alabama,Canada,42922,14.03
+9380840,4795263,2012-08-23 19:02:16,"8, Rue Hanovre",Patrickberg,Missouri,Canada,91537,3.3
+13654580,4795263,2011-01-06 17:01:22,"8, Rue Hanovre",West Chadville,,Canada,58081,4.27
+2070400,4795263,2011-01-08 18:25:11,"8, Rue Hanovre",Cruzborough,,Canada,84911,5.14
+3354508,16300520,2011-12-22 03:58:53,Ordynacka 10,Raymondchester,Florida,USA,44448,9.16
+16149864,16300520,2012-11-11 15:10:38,2211 W Berry Street,Arroyoton,Utah,USA,86178,8.53
+7625738,16300520,2010-11-13 08:54:58,2211 W Berry Street,Lukeberg,,USA,82985,7.04
+4543048,16300520,2012-08-07 15:31:22,2211 W Berry Street,Gomezberg,,USA,30756,8.25
+2604677,16300520,2012-08-29 12:05:02,Ordynacka 10,North Elizabeth,Mississippi,USA,85200,0.99
+15460696,16300520,2011-10-18 10:12:00,Ordynacka 10,East Lisaville,North Carolina,USA,38704,3.2
+14781447,16300520,2010-07-11 09:40:33,2211 W Berry Street,Lake Amanda,,USA,22778,8.34
+5705151,13892253,2011-04-21 03:42:38,5112 48 Street,Davischester,Alaska,Portugal,86149,2.78
+16303207,13892253,2013-05-18 05:42:55,5112 48 Street,Colemanmouth,Massachusetts,Netherlands,95401,8.66
+3406990,13892253,2010-07-14 03:24:45,Rua da Assunção 53,East Dianafort,Minnesota,Brazil,38801,6.28
+16537008,13892253,2012-06-01 23:36:32,5112 48 Street,Wrightport,,Brazil,23233,6.61
+235008,13892253,2009-01-01 00:00:00,5112 48 Street,Margaretside,Missouri,Portugal,92495,6.26
+10969601,13892253,2010-06-06 03:23:43,5112 48 Street,Richardsonchester,,Portugal,59711,6.75
+14659993,13892253,2012-10-09 02:38:19,5112 48 Street,Richardborough,,Portugal,69100,7.18
+8985725,9083682,2009-05-17 20:54:35,Qe 7 Bloco G,South Ashley,Indiana,Czech Republic,85499,9.92
+14028563,9083682,2009-01-01 00:00:00,Qe 7 Bloco G,Calebfurt,Arizona,Netherlands,40223,5.98
+5709713,9083682,2010-03-15 19:11:50,Qe 7 Bloco G,Buchananmouth,Maryland,Czech Republic,97056,5.91
+1390981,9083682,2011-01-26 19:34:35,700 W Pender Street,Jonesville,,Sweden,14960,14.01
+3066959,9083682,2013-04-06 23:04:04,Qe 7 Bloco G,South Marvin,Florida,Czech Republic,54117,3.41
+16320971,9083682,2011-03-11 22:08:13,700 W Pender Street,Maxwellshire,,Czech Republic,45057,5.78
+634975,9083682,2009-01-01 00:00:00,700 W Pender Street,Richardtown,,Spain,48199,0.99
+2822826,14237751,2009-01-01 00:00:00,Grétrystraat 63,Lake Fernandomouth,Delaware,Ireland,95275,4.68
+2797906,14237751,2009-01-01 00:00:00,8210 111 ST NW,Tinachester,,Ireland,59034,10.09
+9032510,14237751,2012-07-24 10:44:26,Grétrystraat 63,Tinafurt,Wisconsin,France,45845,0.99
+2037458,14237751,2010-09-28 07:17:09,Grétrystraat 63,Keithhaven,,United Kingdom,73667,12.25
+258938,14237751,2012-02-02 09:51:41,Grétrystraat 63,Port Micheal,,United Kingdom,11414,0.99
+15546425,14237751,2010-09-07 16:37:18,8210 111 ST NW,Millerborough,Arizona,United Kingdom,67840,6.73
+3452762,14237751,2011-01-13 11:45:49,8210 111 ST NW,Brownchester,North Carolina,United Kingdom,07894,10.14
+2854624,12804688,2011-08-27 21:21:08,319 N. Frances Street,Danielburgh,,Germany,26461,3.41
+3948904,12804688,2009-09-06 06:29:49,319 N. Frances Street,Brianmouth,,Germany,97486,8.0
+4726037,12804688,2012-02-04 19:48:15,319 N. Frances Street,Nicholasburgh,Mississippi,Belgium,85043,0.99
+10813941,12804688,2013-06-16 00:42:34,319 N. Frances Street,Reedside,,Norway,47796,0.99
+8435796,12804688,2013-03-07 07:43:47,194A Chain Lake Drive,Meadowsfurt,Virginia,Germany,17505,5.19
+12367755,12804688,2012-09-11 23:43:34,319 N. Frances Street,Mccoyfort,Michigan,Germany,94617,11.65
+12347017,12804688,2010-02-09 00:40:10,319 N. Frances Street,Jacobbury,Maryland,Canada,35175,12.91
+14667967,13553361,2012-07-31 22:00:46,319 N. Frances Street,Christopherport,Connecticut,Portugal,83757,2.68
+13194899,13553361,2012-09-10 08:21:50,319 N. Frances Street,Lake Janice,,Portugal,99283,3.97
+755187,13553361,2009-03-07 01:52:36,319 N. Frances Street,West Mirandahaven,Wisconsin,Portugal,74220,10.07
+3612554,13553361,2012-09-09 04:15:12,319 N. Frances Street,Shellyberg,,Portugal,48156,10.63
+6525197,13553361,2010-11-26 08:54:37,194A Chain Lake Drive,Clarkville,Idaho,Brazil,13728,6.2
+7834981,13553361,2011-10-16 23:09:25,319 N. Frances Street,Amyside,Massachusetts,Brazil,08680,2.8
+1565437,13553361,2010-03-15 01:03:37,319 N. Frances Street,East Sara,,Portugal,22658,3.14
+8663917,3381229,2013-09-15 17:09:57,69 Salem Street,South Karaburgh,Louisiana,USA,38842,7.41
+9009683,3381229,2013-10-02 10:03:53,69 Salem Street,Glennville,,USA,46413,6.41
+1238145,3381229,2012-01-17 22:03:50,69 Salem Street,Jonathanburgh,,USA,70314,0.99
+10669590,3381229,2013-09-28 03:54:55,69 Salem Street,West Lauriefurt,Kentucky,USA,13882,1.79
+12900246,3381229,2009-08-23 23:55:08,Berger Straße 10,Taylormouth,New York,USA,84092,10.66
+9978743,3381229,2010-09-11 21:38:13,69 Salem Street,Nelsonshire,,USA,17524,7.15
+3861582,3381229,2011-11-20 12:35:07,8210 111 ST NW,Kennethside,New Hampshire,USA,83928,0.99
+13758498,11824030,2011-03-22 05:21:33,202 Hoxton Street,North Toddchester,Nebraska,Canada,93363,6.38
+11176629,11824030,2011-07-26 16:02:15,3 Chatham Street,Barryburgh,,Canada,27685,0.99
+9746614,11824030,2010-06-07 07:13:43,202 Hoxton Street,Scottstad,,Canada,34103,11.95
+14940522,11824030,2013-12-22 00:00:00,3 Chatham Street,North Olivialand,,Canada,14465,8.88
+14199789,11824030,2010-05-05 16:24:00,202 Hoxton Street,East Marissashire,Illinois,Germany,10700,12.34
+11575066,11824030,2012-09-20 16:45:13,202 Hoxton Street,Mcintoshstad,New Jersey,Belgium,15413,5.08
+15480474,11824030,2012-03-29 07:50:19,3 Chatham Street,Stevenborough,Connecticut,Canada,88153,0.99
+13138548,7876060,2012-03-21 03:56:17,"12,Community Centre",Salazarchester,North Carolina,Czech Republic,83385,4.81
+3038888,7876060,2012-10-29 16:37:25,307 Macacha Güemes,Adamport,,Denmark,45695,0.99
+6045183,7876060,2011-07-09 13:30:17,307 Macacha Güemes,Port Nicole,Vermont,Sweden,08136,16.04
+10709289,7876060,2010-03-01 11:16:44,307 Macacha Güemes,Zacharyhaven,Tennessee,Spain,18660,0.99
+12319247,7876060,2010-08-22 14:29:05,307 Macacha Güemes,Paigeburgh,,Sweden,70568,12.79
+3188066,7876060,2011-06-25 10:19:03,307 Macacha Güemes,Leefurt,,Sweden,23709,3.62
+7148578,7876060,2012-08-13 04:38:21,307 Macacha Güemes,Sampsonville,New York,Denmark,60814,1.89
+3305085,5929462,2011-01-03 21:00:19,110 Raeburn Pl,South Barbarahaven,,United Kingdom,34361,0.99
+9861597,5929462,2011-02-25 05:43:29,110 Raeburn Pl,Natashamouth,New Jersey,Australia,69621,0.99
+15441925,5929462,2013-12-22 00:00:00,110 Raeburn Pl,Lake Elizabethbury,Montana,United Kingdom,32850,5.49
+12428033,5929462,2009-11-19 15:14:33,110 Raeburn Pl,Port Linda,,United Kingdom,49900,0.99
+10598318,5929462,2011-04-20 19:25:51,421 Bourke Street,Blackton,Minnesota,United Kingdom,61840,13.57
+10689481,5929462,2010-03-30 08:24:01,110 Raeburn Pl,Wilsonstad,New York,United Kingdom,98089,6.95
+3945928,5929462,2012-02-09 11:00:08,110 Raeburn Pl,Jerryton,,Chile,56666,4.05
+4674913,8209349,2011-01-31 02:40:57,Lijnbaansgracht 120bg,East Coreyfurt,,USA,76085,7.01
+12759366,8209349,2010-02-15 18:46:50,Lijnbaansgracht 120bg,Lake Christopher,New Mexico,USA,07875,1.73
+2316678,8209349,2011-07-22 03:11:29,Lijnbaansgracht 120bg,Elliottborough,,USA,65780,6.81
+7645191,8209349,2009-01-01 00:00:00,Lijnbaansgracht 120bg,West Derrick,Mississippi,USA,58918,3.3
+10732309,8209349,2013-07-04 08:19:02,Lijnbaansgracht 120bg,Walkerborough,,USA,99704,7.34
+4804035,8209349,2010-11-20 18:26:42,Lijnbaansgracht 120bg,West Sean,Florida,USA,05246,6.09
+9691530,8209349,2010-08-15 15:10:09,Tauentzienstraße 8,Parkerstad,Delaware,USA,21884,3.45
+11632434,3211757,2010-08-24 10:34:55,Ullevålsveien 14,East Erin,,India,29951,8.91
+9173705,3211757,2009-12-05 16:39:17,Ullevålsveien 14,Gordonmouth,,Chile,36428,5.38
+3793993,3211757,2010-07-16 22:47:25,Ullevålsveien 14,East Richard,Pennsylvania,Australia,65704,0.99
+5690721,3211757,2010-02-23 00:10:44,Ullevålsveien 14,Karenbury,West Virginia,United Kingdom,66194,10.71
+5152307,3211757,2013-08-15 18:27:13,Ullevålsveien 14,South Shannon,Maine,Australia,63174,5.61
+421988,3211757,2011-06-15 15:58:30,Ullevålsveien 14,Hernandezport,South Carolina,United Kingdom,86487,8.49
+2337902,3211757,2009-01-01 00:00:00,Ullevålsveien 14,Stacyport,,United Kingdom,81566,1.11
+2896559,8144628,2010-07-12 21:17:06,3 Chatham Street,New Connie,,Denmark,87588,1.37
+12034000,8144628,2009-07-03 06:57:11,3 Chatham Street,New Jessicaberg,,Denmark,04712,10.15
+13574195,8144628,2010-06-13 04:32:52,3 Chatham Street,North Gregoryville,Arizona,Poland,12464,1.61
+10600725,8144628,2009-06-10 12:54:40,3 Chatham Street,North Donnaside,Wisconsin,Czech Republic,39432,3.5
+9757967,8144628,2013-10-07 01:48:02,3 Chatham Street,Deleonburgh,Arkansas,Italy,54532,0.99
+11567656,8144628,2012-03-09 00:27:54,3 Chatham Street,Port Jenniferbury,Washington,Denmark,74489,6.97
+11937880,8144628,2010-06-24 21:12:12,3 Chatham Street,Christieville,,Denmark,67669,17.15
+3163780,12405440,2011-03-21 23:00:39,Sønder Boulevard 51,Barkerview,,Finland,82883,9.62
+4350572,12405440,2011-06-19 02:00:12,Sønder Boulevard 51,Lake Richardberg,Arizona,Italy,12368,13.62
+3168402,12405440,2013-12-22 00:00:00,Sønder Boulevard 51,Faulknertown,Minnesota,Czech Republic,25278,0.99
+4504589,12405440,2011-05-18 19:21:24,"Av. Paulista, 2022",Robertport,Washington,Italy,02212,0.99
+975171,12405440,2010-09-29 14:40:56,"Av. Paulista, 2022",West Connie,West Virginia,Sweden,55203,4.4
+9182085,12405440,2009-06-08 06:19:26,"Av. Paulista, 2022",Jacobstad,,Finland,18577,7.03
+15029717,12405440,2010-11-08 06:12:42,Sønder Boulevard 51,Carolstad,,Denmark,48336,8.28
+14395784,9502708,2010-02-10 21:25:09,Rilská 3174/6,Sherrifurt,Florida,Canada,96153,9.72
+6717140,9502708,2009-01-01 00:00:00,Rilská 3174/6,Melissaview,Maryland,Canada,46256,1.14
+15398242,9502708,2012-04-23 02:34:30,Rilská 3174/6,East Bethburgh,Mississippi,Canada,59130,8.82
+1587992,9502708,2011-02-20 17:52:13,Rilská 3174/6,Esparzaview,Michigan,Canada,66316,4.98
+11896628,9502708,2013-12-22 00:00:00,Rilská 3174/6,Dudleychester,,Canada,87951,10.66
+5350274,9502708,2012-01-27 12:46:36,Rilská 3174/6,Port Alexander,,Canada,68348,4.2
+14969360,9502708,2009-02-24 06:48:18,Rilská 3174/6,East Brettshire,,Canada,20535,0.99
+9274908,268837,2012-07-25 20:00:37,2211 W Berry Street,New Dylanburgh,,Canada,77874,8.97
+11815865,268837,2013-12-22 00:00:00,2211 W Berry Street,South Kyle,Wisconsin,Canada,42040,5.97
+2606862,268837,2010-09-12 03:41:39,2211 W Berry Street,Mitchellmouth,,USA,59057,13.2
+6525898,268837,2010-02-16 20:41:28,2211 W Berry Street,Lake Michaelmouth,Wyoming,Canada,78625,4.52
+1288746,268837,2010-11-09 20:21:25,2211 W Berry Street,Sandraberg,Wisconsin,Canada,86109,1.89
+7686189,268837,2011-07-21 15:14:09,2211 W Berry Street,Adamsbury,Nebraska,Canada,79693,2.55
+4274445,268837,2012-10-08 04:10:48,Ordynacka 10,Port Paulland,,Canada,46227,7.82
+2296698,13238283,2009-12-01 04:07:05,Rilská 3174/6,South Thomas,,USA,87948,8.01
+2086993,13238283,2011-03-16 03:24:20,Rilská 3174/6,Michaelton,,USA,33888,2.7
+6705580,13238283,2009-01-01 00:00:00,Rilská 3174/6,West Amandaview,New Jersey,USA,31147,4.97
+12414628,13238283,2010-11-13 00:46:07,Rilská 3174/6,Port Rickymouth,Virginia,USA,53798,0.99
+9815662,13238283,2012-02-04 22:25:23,Rilská 3174/6,Aaronside,Texas,USA,70722,10.87
+11681275,13238283,2012-11-11 20:35:42,Rilská 3174/6,Middletonfort,Hawaii,USA,06000,7.51
+2480772,13238283,2013-01-14 21:44:17,Rilská 3174/6,North Carolynmouth,,USA,01796,1.05
+9692925,12438991,2012-08-17 18:55:46,Berger Straße 10,Port Jeff,,France,06011,3.94
+5152301,12438991,2012-11-08 00:12:39,Barbarossastraße 19,Port Steve,Ohio,Ireland,76169,3.19
+8238774,12438991,2011-12-07 03:57:07,Berger Straße 10,Patriciamouth,Pennsylvania,USA,78073,0.99
+3873660,12438991,2013-08-11 16:51:39,Berger Straße 10,Port Pamelaburgh,Louisiana,France,55101,10.6
+11043648,12438991,2009-01-01 00:00:00,Berger Straße 10,Port Christopherberg,,France,28746,5.92
+15102440,12438991,2010-10-07 07:23:46,Berger Straße 10,West Anthony,,France,89129,7.48
+864999,12438991,2013-06-23 15:38:59,Berger Straße 10,New Scott,Montana,Ireland,79328,3.12
+3248896,6092778,2011-10-27 07:33:04,C/ San Bernardo 85,North Dianaview,Massachusetts,Netherlands,99242,2.92
+802152,6092778,2009-10-16 15:56:49,C/ San Bernardo 85,Port Douglasview,Colorado,Portugal,57035,0.99
+11183111,6092778,2011-06-16 12:48:56,C/ San Bernardo 85,West Cynthia,,Portugal,28519,10.17
+3323437,6092778,2009-11-09 12:20:57,C/ San Bernardo 85,North Matthewville,Indiana,Spain,43090,1.58
+12428790,6092778,2012-07-16 17:04:50,C/ San Bernardo 85,Kylebury,,Brazil,98554,8.31
+11673664,6092778,2011-04-01 23:05:42,C/ San Bernardo 85,Lemouth,,Brazil,35659,6.01
+2649431,6092778,2009-03-11 13:46:38,C/ San Bernardo 85,Hannaborough,Mississippi,Portugal,95457,7.59
+15183013,15605194,2011-11-24 17:28:01,"Av. Brigadeiro Faria Lima, 2170",Hannahside,Montana,Brazil,60478,3.55
+9597303,15605194,2009-03-18 00:02:35,"Av. Brigadeiro Faria Lima, 2170",Stephenland,,Brazil,52467,2.41
+12687944,15605194,2012-05-13 11:07:09,162 E Superior Street,Jordanview,,India,48122,10.91
+575189,15605194,2010-11-04 14:36:10,"Av. Brigadeiro Faria Lima, 2170",Sarahland,Ohio,India,74953,0.99
+4014824,15605194,2012-06-09 09:34:25,162 E Superior Street,Bennettfurt,Wyoming,India,42776,14.0
+6062779,15605194,2011-08-09 19:51:46,162 E Superior Street,West Jennifer,Delaware,India,03035,3.1
+9813423,15605194,2009-04-27 15:58:17,162 E Superior Street,Kingchester,,Chile,05533,2.91
+14872373,6164410,2010-04-01 16:07:25,"Calle Lira, 198",Lindseymouth,,Hungary,87122,9.99
+2586581,6164410,2009-11-18 09:49:10,"Calle Lira, 198",South Charlesmouth,Indiana,Hungary,29627,12.71
+12856211,6164410,2009-01-01 00:00:00,"Calle Lira, 198",West Rachel,,Austria,56809,0.99
+12748717,6164410,2009-09-30 20:09:56,"Calle Lira, 198",Yeseniastad,New York,Argentina,63475,0.99
+3810563,6164410,2013-10-23 13:20:42,421 Bourke Street,Anthonyshire,,Austria,64179,5.55
+14323306,6164410,2012-08-05 01:11:10,"Calle Lira, 198",North Anthony,Georgia,Hungary,67910,8.34
+1922864,6164410,2009-12-09 15:14:40,"Calle Lira, 198",Boydbury,Wyoming,Austria,42732,5.84
+9982796,10948426,2011-02-04 00:09:28,Klanova 9/506,Craigland,,France,07656,0.99
+3736319,10948426,2010-11-12 15:01:14,Klanova 9/506,Rogersmouth,,France,02164,0.99
+16030141,10948426,2013-12-22 00:00:00,Klanova 9/506,Lake Tamarashire,Montana,USA,93824,6.99
+6259091,10948426,2013-01-12 10:58:06,"Rotenturmstraße 4, 1010 Innere Stadt",Lake Angela,Ohio,France,10994,5.15
+11582595,10948426,2011-11-27 05:48:10,Klanova 9/506,Summersview,Mississippi,USA,71214,7.63
+5093892,10948426,2009-12-27 03:31:25,Klanova 9/506,East Laura,,France,78779,7.76
+7720828,10948426,2010-09-29 14:01:07,Klanova 9/506,North Andrewfort,South Dakota,USA,75144,9.75
+10755917,9039104,2013-01-06 23:22:37,"Av. Paulista, 2022",Thomashaven,,Germany,49823,3.3
+16241821,9039104,2013-06-29 20:33:02,"Av. Paulista, 2022",Lake Jeffstad,Massachusetts,Germany,68248,12.21
+16667876,9039104,2013-06-19 14:20:00,Sønder Boulevard 51,Elainechester,Pennsylvania,Norway,09475,4.96
+11985989,9039104,2013-08-26 18:17:26,"Av. Paulista, 2022",North Sean,,Germany,10736,5.79
+11172076,9039104,2009-01-01 00:00:00,"Av. Paulista, 2022",Wolfview,New Hampshire,Norway,15027,2.37
+11862739,9039104,2011-09-12 03:17:48,"Av. Paulista, 2022",Brianmouth,Louisiana,Norway,58697,3.99
+9632681,9039104,2013-12-22 00:00:00,"Av. Paulista, 2022",South David,,Belgium,37182,12.41
+16320398,1001941,2011-09-11 22:05:24,1600 Amphitheatre Parkway,South Danielside,,Canada,64358,0.99
+7854729,1001941,2012-11-25 05:21:29,1600 Amphitheatre Parkway,New Michael,,Canada,55519,0.99
+3974041,1001941,2009-01-01 00:00:00,1600 Amphitheatre Parkway,West Michelleburgh,,Canada,93855,8.87
+8319762,1001941,2012-08-28 17:00:43,1600 Amphitheatre Parkway,North Marilyn,New Hampshire,Canada,70999,7.78
+4906505,1001941,2011-10-17 11:51:48,1600 Amphitheatre Parkway,North Michaelstad,Hawaii,Canada,47479,8.78
+10375153,1001941,2013-05-28 04:27:55,1600 Amphitheatre Parkway,Harryfurt,Arkansas,Canada,30258,4.07
+1593266,1001941,2012-09-04 03:45:50,1600 Amphitheatre Parkway,Edwardport,Minnesota,Canada,18151,4.19
+2894777,1356729,2012-10-12 07:18:53,"Via Degli Scipioni, 43",Lisahaven,Connecticut,Canada,25596,6.38
+9026727,1356729,2013-12-22 00:00:00,"Via Degli Scipioni, 43",New Johnville,New Hampshire,Belgium,17622,9.14
+15637283,1356729,2009-09-20 23:55:43,"Via Degli Scipioni, 43",Bobbyport,,Canada,60982,7.93
+11980709,1356729,2011-07-18 06:47:52,"Via Degli Scipioni, 43",Lake Emilytown,New Hampshire,Canada,11817,16.26
+10315006,1356729,2009-10-23 06:18:03,"Av. Paulista, 2022",South Jeffrey,Wisconsin,Canada,41079,0.99
+9348848,1356729,2012-09-17 18:08:26,"Via Degli Scipioni, 43",Navarrofurt,,Canada,30078,4.02
+7742814,1356729,2013-12-22 00:00:00,"Via Degli Scipioni, 43",Port Lisastad,,Canada,45155,9.59
+6586490,170790,2011-08-20 20:50:04,796 Dundas Street West,North Ianland,Pennsylvania,Hungary,93244,13.94
+6092493,170790,2009-10-02 13:01:44,796 Dundas Street West,Lake Carly,,Poland,09850,12.79
+12441739,170790,2011-01-18 23:12:03,796 Dundas Street West,Kellyton,,Argentina,32736,5.62
+6952112,170790,2010-09-03 07:57:24,796 Dundas Street West,Port Ericstad,Rhode Island,Argentina,99390,5.63
+14031871,170790,2012-02-28 16:06:27,796 Dundas Street West,Amyhaven,Massachusetts,Hungary,03760,0.99
+10540791,170790,2010-05-01 18:48:36,796 Dundas Street West,West Gabrielle,North Carolina,Hungary,48246,4.99
+3242014,170790,2009-01-01 00:00:00,796 Dundas Street West,Davidburgh,,Austria,97462,10.9
+15048292,5443564,2013-02-03 06:36:28,3 Chatham Street,Port Susan,Kansas,USA,49508,11.54
+15598323,5443564,2012-08-02 20:19:40,3 Chatham Street,New Brandiville,,USA,41128,16.3
+12331265,5443564,2010-03-09 03:24:14,3 Chatham Street,New Deannachester,Iowa,USA,54789,5.08
+7736458,5443564,2012-03-01 23:36:44,3 Chatham Street,Port Brittany,,USA,33430,13.03
+2697281,5443564,2012-03-12 01:57:42,3 Chatham Street,South Jesus,Mississippi,USA,41475,0.99
+14069778,5443564,2012-06-04 13:09:06,3 Chatham Street,Greenside,Tennessee,USA,13275,7.66
+15719698,5443564,2010-03-14 21:42:06,3 Chatham Street,West Keith,,USA,64679,15.22
+4480063,4449382,2010-10-12 07:14:36,1 Infinite Loop,Lake Jacobtown,,USA,92003,0.99
+12023376,4449382,2012-02-10 13:10:57,1 Infinite Loop,West Kimberly,,USA,12127,0.99
+8531596,4449382,2010-12-13 15:03:48,1 Infinite Loop,Hayesfurt,,USA,70751,9.59
+1197067,4449382,2010-07-06 05:29:09,1 Infinite Loop,Port Katiefort,Florida,USA,65709,6.78
+11252891,4449382,2009-10-08 17:06:58,1 Infinite Loop,Katherineport,Georgia,USA,93871,11.35
+16647279,4449382,2011-10-21 11:51:41,1 Infinite Loop,East Alicia,Louisiana,USA,79082,5.51
+2877551,4449382,2013-12-22 00:00:00,1 Infinite Loop,West Jimmy,Maine,USA,47320,0.99
+14144312,4198614,2013-04-06 15:03:08,194A Chain Lake Drive,Hansonbury,,Chile,16033,4.98
+16279162,4198614,2012-12-02 08:53:53,194A Chain Lake Drive,West Elizabethburgh,Arizona,India,21020,13.17
+10462629,4198614,2011-01-10 15:51:00,319 N. Frances Street,Ryanbury,Washington,United Kingdom,37894,9.89
+8215303,4198614,2012-02-04 01:59:22,194A Chain Lake Drive,Lauraside,Washington,Chile,42003,4.73
+3211927,4198614,2009-06-15 07:17:14,194A Chain Lake Drive,Port Matthew,,Australia,32096,0.99
+9741453,4198614,2012-04-20 06:47:32,194A Chain Lake Drive,New Kennethfurt,Iowa,Chile,98240,2.6
+1733155,4198614,2012-09-08 14:07:53,319 N. Frances Street,Pearsonport,,Chile,70365,17.36
+4206321,16357743,2010-05-14 01:03:35,Lijnbaansgracht 120bg,Murphyberg,Colorado,Canada,18788,2.81
+8763058,16357743,2009-01-01 00:00:00,Lijnbaansgracht 120bg,Roberttown,,Canada,90004,0.99
+340247,16357743,2012-11-26 16:43:58,Lijnbaansgracht 120bg,Sharonshire,New Mexico,Canada,49359,7.29
+2373755,16357743,2009-06-27 15:44:33,Lijnbaansgracht 120bg,Jimmyberg,Kansas,Canada,29599,6.74
+4949427,16357743,2013-03-30 02:34:07,"Praça Pio X, 119",Jacquelineside,,Canada,06558,8.68
+1733203,16357743,2010-06-06 22:32:47,Lijnbaansgracht 120bg,Port Paula,,Canada,77011,7.39
+12935630,16357743,2009-07-06 22:34:00,Lijnbaansgracht 120bg,Lake Joshuaview,South Carolina,USA,95247,2.06
+13183813,236806,2011-11-21 13:01:10,C/ San Bernardo 85,Lake Rachel,Nevada,Canada,59239,4.38
+12582558,236806,2010-07-26 00:07:17,C/ San Bernardo 85,Riveraside,Michigan,Canada,78637,7.78
+6526389,236806,2011-12-13 12:55:22,Celsiusg. 9,Douglasmouth,,Canada,76228,0.99
+1971799,236806,2013-02-12 03:26:51,Celsiusg. 9,Stevenhaven,,Canada,64123,13.67
+6721432,236806,2013-02-14 11:40:13,Celsiusg. 9,Jonestown,Georgia,Canada,32767,0.99
+4480692,236806,2011-08-10 01:02:23,Celsiusg. 9,South Gina,New Jersey,Canada,33601,9.29
+10757091,236806,2009-05-15 13:36:00,Celsiusg. 9,Sherriton,,Canada,98890,12.15
+13919812,13207143,2012-09-20 18:39:25,"Praça Pio X, 119",East Daniel,Oregon,Sweden,88870,3.77
+4462714,13207143,2012-11-12 04:19:45,"Praça Pio X, 119",Callahanfurt,,Spain,98654,11.08
+9579520,13207143,2013-03-03 10:06:18,Lijnbaansgracht 120bg,Port Jasonside,,Finland,92845,1.77
+3684062,13207143,2012-11-08 10:45:39,Lijnbaansgracht 120bg,South Jeremiahview,,Czech Republic,40834,6.92
+11123839,13207143,2009-01-01 00:00:00,Lijnbaansgracht 120bg,Jacobston,California,Czech Republic,72225,0.99
+4195430,13207143,2010-06-01 13:45:54,Lijnbaansgracht 120bg,Michaelton,Indiana,Sweden,78692,8.36
+13385259,13207143,2012-12-15 15:15:12,Lijnbaansgracht 120bg,Torresfurt,Minnesota,Netherlands,01305,15.73
+10150613,15029334,2012-10-16 19:12:34,5112 48 Street,Lake Jeanette,Washington,USA,84817,2.96
+9298963,15029334,2013-12-22 00:00:00,"Rua Dr. Falcão Filho, 155",Gonzalezmouth,,USA,15776,0.99
+5605845,15029334,2010-02-15 18:06:37,"Rua Dr. Falcão Filho, 155",Port Allisonton,Arizona,USA,93566,7.68
+9495668,15029334,2011-04-06 14:36:45,"Rua Dr. Falcão Filho, 155",Lake Davidstad,Arkansas,USA,44643,6.53
+3987070,15029334,2009-01-29 21:20:17,"Rua Dr. Falcão Filho, 155",North Matthew,,USA,30691,3.62
+15988521,15029334,2011-09-13 14:38:03,"Rua Dr. Falcão Filho, 155",Allenmouth,,USA,83016,6.98
+5573982,15029334,2013-12-22 00:00:00,"Rua Dr. Falcão Filho, 155",West Jacqueline,Iowa,USA,31536,10.9
+5085457,10911195,2010-03-08 07:21:45,Lijnbaansgracht 120bg,West Crystalborough,,Canada,33844,3.47
+5032630,10911195,2010-05-03 18:37:01,Lijnbaansgracht 120bg,Smithhaven,Wyoming,Canada,18822,4.3
+6474221,10911195,2010-07-06 15:40:24,Lijnbaansgracht 120bg,Powellchester,,USA,60532,3.85
+7582943,10911195,2010-07-30 12:29:55,Lijnbaansgracht 120bg,North Kimberlyhaven,Idaho,Canada,83727,12.4
+473984,10911195,2013-12-22 00:00:00,Lijnbaansgracht 120bg,Spearsfurt,,USA,76270,1.91
+8419773,10911195,2011-11-09 00:50:48,Lijnbaansgracht 120bg,Lake Ethantown,New York,Canada,19173,5.9
+11981853,10911195,2009-08-18 19:30:23,Lijnbaansgracht 120bg,New Richard,South Dakota,Canada,06061,7.59
+5554451,4146896,2010-12-09 21:28:57,C/ San Bernardo 85,Ponceburgh,Indiana,Canada,34464,0.99
+15900802,4146896,2009-11-27 03:36:40,Celsiusg. 9,Kathrynmouth,,Canada,13535,1.05
+7487880,4146896,2010-09-28 13:40:21,Celsiusg. 9,Lake Scottmouth,,Canada,33729,4.04
+6020031,4146896,2011-12-08 23:20:23,Celsiusg. 9,Port Catherinehaven,Colorado,Canada,05608,3.62
+11047547,4146896,2013-10-21 12:02:49,C/ San Bernardo 85,East Colton,Illinois,Canada,72053,6.42
+14041115,4146896,2012-06-26 08:59:49,C/ San Bernardo 85,New Kathleen,,Canada,77038,7.34
+10114285,4146896,2009-08-28 01:22:34,Celsiusg. 9,North Jacqueline,Nebraska,Canada,42717,11.84
+6728229,1574597,2012-11-05 23:37:02,Tauentzienstraße 8,North Raymond,Kansas,Australia,96084,1.03
+4169619,1574597,2013-08-06 01:47:32,Tauentzienstraße 8,Port Devonshire,,Australia,01040,8.15
+12956701,1574597,2010-09-29 23:56:58,Tauentzienstraße 8,North Rachelshire,Missouri,United Kingdom,18502,5.76
+2439168,1574597,2013-05-24 05:36:39,Tauentzienstraße 8,West Tylerville,North Carolina,United Kingdom,79921,4.84
+13643376,1574597,2009-01-01 00:00:00,Lijnbaansgracht 120bg,North Angelachester,,United Kingdom,25026,3.94
+12095273,1574597,2011-01-03 11:30:25,Tauentzienstraße 8,Lake Sethchester,,Australia,10322,5.06
+12494873,1574597,2011-09-28 06:28:33,Tauentzienstraße 8,East Julie,Delaware,India,48552,11.44
+3624645,14537719,2012-03-01 07:25:44,Ullevålsveien 14,Christyfurt,Kentucky,India,93366,5.22
+1793322,14537719,2012-09-16 05:32:01,Ullevålsveien 14,Ibarraport,Montana,Australia,04061,0.99
+2766031,14537719,2012-02-07 15:50:29,Ullevålsveien 14,West Michellehaven,,Chile,58721,15.39
+6020910,14537719,2009-09-27 15:33:03,Ullevålsveien 14,New Lisaton,,United Kingdom,23951,9.68
+1881421,14537719,2012-03-27 02:03:06,Ullevålsveien 14,East Susanside,Kansas,United Kingdom,06132,10.85
+1744164,14537719,2011-10-11 09:58:48,Ullevålsveien 14,Vegaton,New Hampshire,United Kingdom,56860,3.39
+2123880,14537719,2012-02-28 07:49:45,Ullevålsveien 14,North Michelleside,,United Kingdom,77149,0.99
+2277336,8523129,2012-03-07 00:07:05,Theodor-Heuss-Straße 34,Chapmanfort,Wisconsin,Belgium,77366,1.8
+3964996,8523129,2010-03-04 10:58:12,Theodor-Heuss-Straße 34,Baxterstad,Virginia,Germany,99350,0.99
+14198844,8523129,2011-03-18 03:28:02,Theodor-Heuss-Straße 34,Mossview,Kansas,Canada,04922,12.11
+5539185,8523129,2011-07-15 20:10:04,Theodor-Heuss-Straße 34,East Katherine,,Germany,12898,6.39
+35343,8523129,2013-12-22 00:00:00,Ullevålsveien 14,New Vincentburgh,Illinois,Canada,02064,12.04
+3829566,8523129,2013-03-05 16:30:55,Ullevålsveien 14,Port Dannyberg,,Norway,35961,3.95
+10954190,8523129,2009-01-01 00:00:00,Ullevålsveien 14,Kyleton,,Germany,22362,0.99
+6322819,6215195,2012-11-11 18:23:56,541 Del Medio Avenue,Annchester,Colorado,India,00584,10.3
+10489123,6215195,2013-07-06 22:41:31,541 Del Medio Avenue,Mccoyland,,Chile,82229,12.39
+14985049,6215195,2009-01-01 00:00:00,541 Del Medio Avenue,Ramirezborough,New Jersey,Australia,24516,0.99
+6278426,6215195,2011-05-12 03:28:43,541 Del Medio Avenue,Lake Jaredchester,Illinois,Chile,98799,7.1
+11030274,6215195,2010-07-25 00:45:34,541 Del Medio Avenue,Ramirezstad,,Australia,06186,6.78
+4369497,6215195,2012-06-06 03:03:04,541 Del Medio Avenue,South Michelleville,Mississippi,Chile,50836,7.24
+4032683,6215195,2012-07-04 04:48:18,541 Del Medio Avenue,Combsmouth,,Australia,02762,2.59
+6474617,350605,2012-07-11 23:35:20,"Av. Brigadeiro Faria Lima, 2170",Nicholashaven,,Canada,71966,0.99
+4703000,350605,2009-08-03 04:31:10,162 E Superior Street,New Derrickview,Washington,Canada,98328,0.99
+7928107,350605,2013-12-22 00:00:00,"Av. Brigadeiro Faria Lima, 2170",Juarezmouth,,Canada,88554,11.87
+8225260,350605,2012-11-25 10:55:23,162 E Superior Street,South Kristenport,Arizona,Canada,88045,5.93
+14886517,350605,2012-11-16 01:55:00,"Av. Brigadeiro Faria Lima, 2170",West Timothy,South Carolina,Canada,64671,8.66
+15372162,350605,2010-09-05 13:21:37,"Av. Brigadeiro Faria Lima, 2170",Rebeccastad,Nebraska,Canada,82414,6.45
+16110964,350605,2009-01-01 00:00:00,162 E Superior Street,Leefort,,Canada,74765,5.26
+12611431,8333301,2012-04-14 14:13:28,Sønder Boulevard 51,Adamburgh,,Germany,61467,8.43
+3847616,8333301,2010-12-03 06:46:01,Sønder Boulevard 51,North Samantha,California,Germany,51264,9.27
+6938436,8333301,2013-09-21 13:02:50,Sønder Boulevard 51,Port Stevenborough,Massachusetts,Germany,69083,3.04
+14939513,8333301,2010-05-28 19:07:59,Sønder Boulevard 51,Williamview,Indiana,Germany,86869,0.99
+59021,8333301,2012-09-23 12:24:04,Sønder Boulevard 51,South Jennifer,,Belgium,96113,4.68
+16762349,8333301,2011-07-14 00:53:24,Sønder Boulevard 51,Josephberg,,Norway,68642,7.46
+10120598,8333301,2012-01-21 08:47:12,Sønder Boulevard 51,Lake Karenhaven,Hawaii,Germany,50976,10.65
+928974,934545,2011-03-03 16:57:59,Porthaninkatu 9,Port Troy,,USA,04267,2.18
+10853957,934545,2009-09-09 03:17:39,Porthaninkatu 9,Patriciafort,Georgia,USA,65533,10.51
+2155312,934545,2013-07-21 10:33:15,696 Osborne Street,New Anthony,Utah,Canada,10750,3.26
+14834503,934545,2009-11-25 11:33:53,Porthaninkatu 9,Evelynchester,,USA,65923,3.04
+4750331,934545,2013-12-22 00:00:00,Porthaninkatu 9,Thomasburgh,North Dakota,USA,42944,3.6
+7385952,934545,2010-05-02 16:38:51,Porthaninkatu 9,Harrisberg,Arkansas,USA,97695,5.21
+13849137,934545,2009-01-01 00:00:00,Porthaninkatu 9,New Kelly,,USA,54459,12.19
+5974422,15071169,2010-09-11 20:24:46,Qe 7 Bloco G,West Jennifer,Georgia,USA,61208,8.25
+10291723,15071169,2009-01-01 00:00:00,Qe 7 Bloco G,Lake Latoya,,USA,83077,9.75
+16188753,15071169,2013-02-26 20:45:36,"Praça Pio X, 119",South Deannafurt,Colorado,USA,73456,13.76
+5382463,15071169,2011-02-15 00:10:04,Qe 7 Bloco G,Tonyastad,North Carolina,USA,28354,3.58
+4939791,15071169,2013-12-22 00:00:00,"Praça Pio X, 119",Cisnerosside,,USA,10056,2.53
+283713,15071169,2011-04-15 16:57:00,Qe 7 Bloco G,Port Daniel,Maryland,USA,61943,2.15
+11769354,15071169,2009-01-01 00:00:00,"Praça Pio X, 119",Port Victoriaside,,USA,10051,8.88
+2846047,4986926,2010-10-17 04:24:43,Rilská 3174/6,Royfort,Minnesota,Poland,75989,4.34
+4241280,4986926,2011-05-06 00:54:25,Rilská 3174/6,West Rachelfort,Pennsylvania,Italy,76586,0.99
+3838537,4986926,2009-01-01 00:00:00,Rilská 3174/6,Lake Tamara,,Austria,11530,4.95
+1741926,4986926,2010-06-28 07:20:38,Rilská 3174/6,North Meredith,Illinois,Italy,26749,11.17
+868932,4986926,2012-01-31 18:19:54,113 Lupus St,Johnsonport,,Hungary,33478,7.75
+14045080,4986926,2012-07-14 17:38:55,Rilská 3174/6,Kathymouth,Rhode Island,Austria,84662,7.31
+7963474,4986926,2010-07-20 11:43:32,Rilská 3174/6,Youngland,,Italy,10618,0.99
+15569824,12661736,2010-09-08 03:47:20,801 W 4th Street,Greenbury,Montana,United Kingdom,70169,3.47
+6545925,12661736,2012-03-26 20:14:46,801 W 4th Street,Marcusport,,United Kingdom,50300,0.99
+8983492,12661736,2011-06-05 08:09:53,801 W 4th Street,South Shannon,Wisconsin,Ireland,04420,6.4
+9949406,12661736,2009-12-08 14:07:22,801 W 4th Street,New Scott,Connecticut,United Kingdom,56190,3.08
+1119574,12661736,2012-08-05 00:49:18,801 W 4th Street,Port Christopher,Massachusetts,France,93431,15.02
+14816942,12661736,2011-06-20 09:47:35,801 W 4th Street,Port Amy,,Ireland,96680,8.07
+15609884,12661736,2011-05-22 13:02:08,801 W 4th Street,Millerstad,,France,23291,0.99
+1879926,12960553,2013-11-21 13:01:15,302 S 700 E,Jenniferside,Massachusetts,USA,21282,13.04
+10530478,12960553,2013-06-24 19:44:47,Klanova 9/506,Sweeneybury,,USA,90639,15.88
+15344644,12960553,2011-02-06 02:36:51,302 S 700 E,East Lydiafort,Iowa,USA,09567,0.99
+6969863,12960553,2012-01-22 08:32:04,302 S 700 E,Danielchester,California,USA,61718,4.08
+9428209,12960553,2011-10-23 06:29:10,302 S 700 E,Sarafort,,USA,92793,4.66
+1875040,12960553,2011-11-20 15:55:51,302 S 700 E,Beasleyburgh,,USA,51645,9.12
+11638874,12960553,2010-07-24 08:07:06,Klanova 9/506,Smithside,Connecticut,USA,26214,7.11
+2982597,14296954,2010-02-18 10:22:41,162 E Superior Street,Jacobland,,France,49362,0.99
+4635513,14296954,2009-10-22 02:03:41,162 E Superior Street,Lisatown,Kentucky,France,78220,0.99
+4173384,14296954,2009-04-15 12:41:41,162 E Superior Street,New Kristin,,United Kingdom,60428,9.14
+1816697,14296954,2010-09-03 02:05:12,162 E Superior Street,Byrdchester,Montana,France,92844,0.99
+3404211,14296954,2013-02-18 13:06:15,162 E Superior Street,North Stevenport,Illinois,France,05251,10.65
+7819914,14296954,2012-11-16 18:45:43,162 E Superior Street,Davemouth,Wisconsin,France,27605,6.69
+15863240,14296954,2010-08-11 21:50:32,162 E Superior Street,West Michelleborough,,France,31197,7.15
+15278139,1243528,2012-04-17 02:21:12,113 Lupus St,Martinland,,Canada,73168,0.99
+2573124,1243528,2013-12-22 00:00:00,Rilská 3174/6,Rogersview,New York,USA,71332,1.65
+8818017,1243528,2010-05-02 13:30:43,Rilská 3174/6,Leeburgh,,USA,89252,3.59
+4268863,1243528,2012-05-11 01:20:11,Rilská 3174/6,Lake Shawn,Tennessee,Canada,75158,4.2
+15091956,1243528,2009-01-24 14:20:15,113 Lupus St,West Brittanyton,,Canada,61497,12.94
+4330529,1243528,2011-06-18 23:11:15,113 Lupus St,Williamsberg,Illinois,USA,27686,7.63
+13338362,1243528,2013-02-02 14:41:15,Rilská 3174/6,Sarahton,Utah,USA,45948,0.99
+1047568,8835291,2012-09-17 22:49:25,Rua da Assunção 53,Carrillotown,,USA,89608,13.1
+7833206,8835291,2013-07-09 07:41:32,Rua da Assunção 53,East Valeriebury,Louisiana,USA,27152,11.57
+819627,8835291,2009-04-22 16:05:43,Rua da Assunção 53,Medinafurt,South Dakota,USA,07647,5.19
+8351774,8835291,2009-12-16 22:41:16,Rua da Assunção 53,South Jessicashire,Pennsylvania,USA,69082,4.19
+12375061,8835291,2012-12-17 16:04:03,5112 48 Street,Williamtown,Kansas,USA,61317,2.92
+2255678,8835291,2012-09-25 08:51:23,Rua da Assunção 53,Leefurt,,USA,96526,4.74
+4824493,8835291,2011-05-12 18:34:28,Rua da Assunção 53,Wagnerview,,USA,59284,4.81
+13242541,1009017,2010-03-11 10:12:03,"4, Rue Milton",Jenniferfurt,Oklahoma,Brazil,86401,0.99
+3250912,1009017,2009-01-01 00:00:00,"4, Rue Milton",Willishaven,Maryland,Brazil,02251,0.99
+10744178,1009017,2012-05-25 17:04:02,"4, Rue Milton",Port Isaacborough,,Brazil,19943,7.0
+592310,1009017,2010-12-04 16:27:34,"11, Place Bellecour",East Matthewmouth,Georgia,India,36006,6.86
+3893348,1009017,2013-12-22 00:00:00,"4, Rue Milton",North Clayton,Arkansas,Brazil,70607,5.89
+8025081,1009017,2011-05-16 00:42:57,"11, Place Bellecour",West Norma,,Brazil,48377,8.39
+7430943,1009017,2009-01-01 00:00:00,"4, Rue Milton",Susanmouth,,Brazil,35046,8.73
+10318187,9215912,2012-04-28 04:05:04,Klanova 9/506,Lisabury,Oregon,USA,22021,10.28
+1256989,9215912,2011-01-04 19:53:19,Klanova 9/506,Jasonborough,,USA,05125,8.42
+8623740,9215912,2010-12-16 23:19:02,Klanova 9/506,North Brandon,Texas,USA,62040,0.99
+13796360,9215912,2010-08-08 02:31:58,Klanova 9/506,Lake Mark,,USA,25282,7.7
+6211729,9215912,2013-12-22 00:00:00,Klanova 9/506,Port Paultown,Oregon,USA,01584,6.9
+2204488,9215912,2011-12-19 07:27:54,Klanova 9/506,West Wesleymouth,Oklahoma,USA,54537,10.66
+11379831,9215912,2009-01-01 00:00:00,Klanova 9/506,Markberg,,USA,66297,1.89
+15515765,9291465,2010-04-19 01:44:04,202 Hoxton Street,East Aaronshire,Connecticut,United Kingdom,70937,0.99
+1514913,9291465,2011-04-17 07:26:24,202 Hoxton Street,Phelpschester,,Australia,33040,0.99
+15752093,9291465,2010-04-22 09:10:02,202 Hoxton Street,Freemanfurt,,Australia,72356,15.11
+7837385,9291465,2010-12-30 08:55:29,202 Hoxton Street,Durhamburgh,Virginia,United Kingdom,22402,7.87
+15934655,9291465,2011-10-26 04:19:19,202 Hoxton Street,Port Melvinmouth,Illinois,United Kingdom,37870,13.5
+8808530,9291465,2012-05-30 18:32:03,202 Hoxton Street,Kellychester,,United Kingdom,67154,1.4
+8244681,9291465,2012-01-02 07:01:44,202 Hoxton Street,New Annetteshire,Arkansas,Chile,70177,0.99
+8025417,13558054,2010-01-08 12:28:47,1600 Amphitheatre Parkway,West Ian,New Mexico,India,97738,1.92
+16425075,13558054,2011-12-24 16:58:34,1600 Amphitheatre Parkway,New Kevinmouth,,India,49736,6.06
+5596470,13558054,2009-01-01 00:00:00,1 Microsoft Way,New Cassidy,Texas,India,78756,5.64
+12591889,13558054,2010-12-23 19:05:55,1 Microsoft Way,Lake Breanna,Arkansas,United Kingdom,97673,9.58
+9187424,13558054,2009-07-13 12:52:14,1 Microsoft Way,East James,Arkansas,Brazil,52311,5.79
+15781105,13558054,2012-08-11 19:48:59,1600 Amphitheatre Parkway,South Douglashaven,,India,48984,4.93
+10582764,13558054,2013-12-22 00:00:00,1600 Amphitheatre Parkway,Tracyhaven,,India,85625,5.23
+15061722,1787263,2011-05-24 13:15:32,Klanova 9/506,Lake Jefferyside,Vermont,USA,67185,0.99
+14972467,1787263,2010-03-21 16:21:43,Klanova 9/506,Lake Shelbybury,,USA,42828,2.47
+9758944,1787263,2010-12-03 14:21:44,"Rotenturmstraße 4, 1010 Innere Stadt",South Rachel,,USA,32861,0.99
+6550248,1787263,2011-07-14 19:27:40,Klanova 9/506,Lynchmouth,Idaho,USA,95245,8.25
+15795561,1787263,2013-12-22 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Mariochester,Missouri,USA,20081,8.2
+14426018,1787263,2011-12-22 00:18:01,"Rotenturmstraße 4, 1010 Innere Stadt",Amandafort,Delaware,USA,92220,9.24
+14586256,1787263,2009-01-01 00:00:00,Klanova 9/506,East Julie,,USA,39747,6.89
+16325576,194567,2012-07-15 01:29:21,1 Microsoft Way,Gonzalezhaven,,Chile,42534,6.19
+12386710,194567,2013-12-22 00:00:00,1 Microsoft Way,Bookerburgh,,Chile,50845,10.04
+7076913,194567,2012-02-26 16:58:06,1 Microsoft Way,Port Nicholaston,Wyoming,United Kingdom,33729,0.99
+2073797,194567,2011-11-13 08:49:09,1 Infinite Loop,South Amanda,New Mexico,United Kingdom,73181,7.38
+4198937,194567,2009-08-10 13:37:46,1 Microsoft Way,East Suzanne,,United Kingdom,86438,0.99
+6647435,194567,2010-09-19 07:30:09,1 Infinite Loop,West James,Maryland,United Kingdom,95432,9.23
+9046455,194567,2013-08-31 16:03:29,1 Microsoft Way,East Aliciafort,Vermont,United Kingdom,85979,15.89
+7407781,9438228,2011-05-06 18:24:45,Lijnbaansgracht 120bg,Wrightchester,Kansas,Brazil,47111,0.99
+5467716,9438228,2012-12-06 21:09:26,Lijnbaansgracht 120bg,Howardville,Utah,Brazil,62535,4.54
+12267799,9438228,2010-05-16 23:56:48,Tauentzienstraße 8,North Philiptown,,India,51167,6.3
+13679904,9438228,2012-09-16 17:15:22,Lijnbaansgracht 120bg,Reesebury,,India,75146,8.77
+8098519,9438228,2009-04-07 03:08:26,Tauentzienstraße 8,Lake Erika,Connecticut,Brazil,50883,6.35
+13537480,9438228,2010-10-20 09:59:11,Lijnbaansgracht 120bg,Haynesport,,Brazil,41643,4.71
+9056551,9438228,2012-05-20 15:53:07,Tauentzienstraße 8,Ryanview,Tennessee,Brazil,11081,9.48
+16402227,2638331,2012-08-04 07:14:12,C/ San Bernardo 85,East Lisamouth,,USA,49496,8.31
+14654893,2638331,2011-11-02 18:37:58,C/ San Bernardo 85,Floresside,,USA,65314,5.14
+957803,2638331,2009-05-02 21:49:20,C/ San Bernardo 85,Davidton,Kansas,USA,12378,7.31
+6950318,2638331,2011-07-21 11:41:19,C/ San Bernardo 85,Berryhaven,Louisiana,Canada,46205,0.99
+8255406,2638331,2013-06-03 01:10:07,C/ San Bernardo 85,Jerrytown,North Carolina,Canada,27832,11.89
+9976263,2638331,2012-09-07 10:47:27,C/ San Bernardo 85,Patrickberg,,Canada,72976,4.54
+2293145,2638331,2009-12-03 05:42:08,C/ San Bernardo 85,South Robertville,Hawaii,Canada,30330,0.99
+15432113,13140116,2010-10-22 21:57:43,"Av. Brigadeiro Faria Lima, 2170",North Christopher,,Canada,31760,2.25
+1318786,13140116,2010-07-04 03:15:33,1498 rue Bélanger,Williamsbury,,Norway,29238,2.85
+7512648,13140116,2013-11-11 07:27:47,1498 rue Bélanger,Port Jonathan,Hawaii,Canada,89361,11.88
+1466973,13140116,2011-12-03 07:28:05,1498 rue Bélanger,North Brian,North Dakota,Norway,09251,6.69
+6371885,13140116,2011-09-04 22:22:51,1498 rue Bélanger,Lake Katherine,New Mexico,Canada,32786,8.2
+6174564,13140116,2012-04-11 18:07:46,1498 rue Bélanger,Hicksberg,,Norway,05188,3.59
+928684,13140116,2013-08-28 09:58:04,1498 rue Bélanger,New Amandaland,Utah,Germany,45911,5.2
+5732693,11252859,2013-01-02 00:38:07,319 N. Frances Street,Mendozahaven,,France,24819,2.0
+12623914,11252859,2011-10-06 03:43:59,801 W 4th Street,Lake Wendymouth,Alabama,France,19962,0.99
+13038169,11252859,2013-04-21 10:52:17,801 W 4th Street,South Brandon,New York,France,16565,17.0
+5223710,11252859,2010-09-17 21:34:21,319 N. Frances Street,Clineview,,France,34076,12.25
+8474332,11252859,2012-02-28 04:38:26,801 W 4th Street,New Danielleburgh,,Ireland,79926,6.96
+9472739,11252859,2009-11-02 17:14:03,319 N. Frances Street,West Jessica,Montana,France,66096,2.69
+16130872,11252859,2009-05-03 10:43:29,801 W 4th Street,Carrilloberg,Michigan,France,23710,2.02
+3116122,8221746,2010-03-19 19:50:50,Ordynacka 10,West Michaelmouth,,India,39225,1.74
+4166089,8221746,2011-04-07 21:18:54,Ordynacka 10,East Ronaldstad,Arkansas,India,40584,3.55
+5328277,8221746,2013-01-29 20:10:15,"Via Degli Scipioni, 43",Ramirezside,Oregon,India,62875,5.11
+12192056,8221746,2012-09-03 01:22:45,"Via Degli Scipioni, 43",Harrisfort,North Dakota,Chile,92687,10.12
+16163486,8221746,2010-06-19 05:42:14,"Via Degli Scipioni, 43",Dianemouth,,India,20823,4.91
+4798230,8221746,2010-01-29 17:54:19,"Via Degli Scipioni, 43",Kathleenfurt,,India,72737,7.64
+14225714,8221746,2012-10-31 04:40:15,Ordynacka 10,Lake Andrew,Oklahoma,India,42130,6.21
+2969909,16361114,2013-07-19 18:42:14,1 Infinite Loop,Cookport,Kentucky,Canada,64309,4.94
+7595216,16361114,2010-12-17 13:17:33,1 Infinite Loop,North Richard,,Canada,31840,8.04
+4258376,16361114,2012-06-05 18:55:48,1 Microsoft Way,South Joel,Pennsylvania,Belgium,89310,0.99
+3208896,16361114,2012-09-08 10:43:08,1 Microsoft Way,South Larry,Vermont,Canada,82044,8.65
+12961987,16361114,2013-05-03 10:36:22,1 Infinite Loop,New Tinaland,,Norway,92418,2.37
+862527,16361114,2011-12-30 20:52:15,1 Infinite Loop,Terryfurt,Hawaii,Canada,49121,8.44
+5152265,16361114,2009-01-01 00:00:00,1 Infinite Loop,Charlesville,,Canada,38446,8.73

@@ -1,0 +1,331 @@
+{
+    "tables": {
+        "Album": {
+            "primary_key": "AlbumId",
+            "columns": {
+                "AlbumId": {
+                    "sdtype": "id"
+                },
+                "Title": {
+                    "sdtype": "categorical"
+                },
+                "ArtistId": {
+                    "sdtype": "id"
+                }
+            }
+        },
+        "Artist": {
+            "primary_key": "ArtistId",
+            "columns": {
+                "ArtistId": {
+                    "sdtype": "id"
+                },
+                "Name": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "Customer": {
+            "primary_key": "CustomerId",
+            "columns": {
+                "CustomerId": {
+                    "sdtype": "id"
+                },
+                "FirstName": {
+                    "pii": true,
+                    "sdtype": "first_name"
+                },
+                "LastName": {
+                    "pii": true,
+                    "sdtype": "last_name"
+                },
+                "Company": {
+                    "sdtype": "categorical"
+                },
+                "Address": {
+                    "sdtype": "categorical"
+                },
+                "City": {
+                    "pii": true,
+                    "sdtype": "city"
+                },
+                "State": {
+                    "pii": true,
+                    "sdtype": "administrative_unit"
+                },
+                "Country": {
+                    "sdtype": "categorical"
+                },
+                "PostalCode": {
+                    "pii": true,
+                    "sdtype": "postcode"
+                },
+                "Phone": {
+                    "sdtype": "categorical"
+                },
+                "Fax": {
+                    "sdtype": "categorical"
+                },
+                "Email": {
+                    "pii": true,
+                    "sdtype": "email"
+                },
+                "SupportRepId": {
+                    "sdtype": "id"
+                }
+            }
+        },
+        "Employee": {
+            "primary_key": "EmployeeId",
+            "columns": {
+                "EmployeeId": {
+                    "sdtype": "id"
+                },
+                "LastName": {
+                    "pii": true,
+                    "sdtype": "last_name"
+                },
+                "FirstName": {
+                    "pii": true,
+                    "sdtype": "first_name"
+                },
+                "Title": {
+                    "sdtype": "categorical"
+                },
+                "ReportsTo": {
+                    "sdtype": "numerical"
+                },
+                "BirthDate": {
+                    "datetime_format": "%Y-%m-%d %H:%M:%S",
+                    "sdtype": "datetime"
+                },
+                "HireDate": {
+                    "datetime_format": "%Y-%m-%d %H:%M:%S",
+                    "sdtype": "datetime"
+                },
+                "Address": {
+                    "sdtype": "categorical"
+                },
+                "City": {
+                    "pii": true,
+                    "sdtype": "city"
+                },
+                "State": {
+                    "pii": true,
+                    "sdtype": "administrative_unit"
+                },
+                "Country": {
+                    "sdtype": "categorical"
+                },
+                "PostalCode": {
+                    "pii": true,
+                    "sdtype": "postcode"
+                },
+                "Phone": {
+                    "sdtype": "categorical"
+                },
+                "Fax": {
+                    "sdtype": "categorical"
+                },
+                "Email": {
+                    "pii": true,
+                    "sdtype": "email"
+                }
+            }
+        },
+        "Genre": {
+            "primary_key": "GenreId",
+            "columns": {
+                "GenreId": {
+                    "sdtype": "id"
+                },
+                "Name": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "Invoice": {
+            "primary_key": "InvoiceId",
+            "columns": {
+                "InvoiceId": {
+                    "sdtype": "id"
+                },
+                "CustomerId": {
+                    "sdtype": "id"
+                },
+                "InvoiceDate": {
+                    "datetime_format": "%Y-%m-%d %H:%M:%S",
+                    "sdtype": "datetime"
+                },
+                "BillingAddress": {
+                    "sdtype": "categorical"
+                },
+                "BillingCity": {
+                    "pii": true,
+                    "sdtype": "city"
+                },
+                "BillingState": {
+                    "pii": true,
+                    "sdtype": "administrative_unit"
+                },
+                "BillingCountry": {
+                    "sdtype": "categorical"
+                },
+                "BillingPostalCode": {
+                    "pii": true,
+                    "sdtype": "postcode"
+                },
+                "Total": {
+                    "sdtype": "numerical"
+                }
+            }
+        },
+        "InvoiceLine": {
+            "primary_key": "InvoiceLineId",
+            "columns": {
+                "InvoiceLineId": {
+                    "sdtype": "id"
+                },
+                "InvoiceId": {
+                    "sdtype": "id"
+                },
+                "TrackId": {
+                    "sdtype": "id"
+                },
+                "UnitPrice": {
+                    "sdtype": "numerical"
+                },
+                "Quantity": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "MediaType": {
+            "primary_key": "MediaTypeId",
+            "columns": {
+                "MediaTypeId": {
+                    "sdtype": "id"
+                },
+                "Name": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "Playlist": {
+            "primary_key": "PlaylistId",
+            "columns": {
+                "PlaylistId": {
+                    "sdtype": "id"
+                },
+                "Name": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "PlaylistTrack": {
+            "columns": {
+                "PlaylistId": {
+                    "sdtype": "id"
+                },
+                "TrackId": {
+                    "sdtype": "id"
+                }
+            }
+        },
+        "Track": {
+            "primary_key": "TrackId",
+            "columns": {
+                "TrackId": {
+                    "sdtype": "id"
+                },
+                "Name": {
+                    "sdtype": "categorical"
+                },
+                "AlbumId": {
+                    "sdtype": "id"
+                },
+                "MediaTypeId": {
+                    "sdtype": "id"
+                },
+                "GenreId": {
+                    "sdtype": "id"
+                },
+                "Composer": {
+                    "sdtype": "categorical"
+                },
+                "Milliseconds": {
+                    "sdtype": "numerical"
+                },
+                "Bytes": {
+                    "sdtype": "numerical"
+                },
+                "UnitPrice": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [
+        {
+            "parent_table_name": "Album",
+            "child_table_name": "Track",
+            "parent_primary_key": "AlbumId",
+            "child_foreign_key": "AlbumId"
+        },
+        {
+            "parent_table_name": "Artist",
+            "child_table_name": "Album",
+            "parent_primary_key": "ArtistId",
+            "child_foreign_key": "ArtistId"
+        },
+        {
+            "parent_table_name": "Customer",
+            "child_table_name": "Invoice",
+            "parent_primary_key": "CustomerId",
+            "child_foreign_key": "CustomerId"
+        },
+        {
+            "parent_table_name": "Genre",
+            "child_table_name": "Track",
+            "parent_primary_key": "GenreId",
+            "child_foreign_key": "GenreId"
+        },
+        {
+            "parent_table_name": "Invoice",
+            "child_table_name": "InvoiceLine",
+            "parent_primary_key": "InvoiceId",
+            "child_foreign_key": "InvoiceId"
+        },
+        {
+            "parent_table_name": "MediaType",
+            "child_table_name": "Track",
+            "parent_primary_key": "MediaTypeId",
+            "child_foreign_key": "MediaTypeId"
+        },
+        {
+            "parent_table_name": "Playlist",
+            "child_table_name": "PlaylistTrack",
+            "parent_primary_key": "PlaylistId",
+            "child_foreign_key": "PlaylistId"
+        },
+        {
+            "parent_table_name": "Track",
+            "child_table_name": "PlaylistTrack",
+            "parent_primary_key": "TrackId",
+            "child_foreign_key": "TrackId"
+        },
+        {
+            "parent_table_name": "Track",
+            "child_table_name": "InvoiceLine",
+            "parent_primary_key": "TrackId",
+            "child_foreign_key": "TrackId"
+        },
+        {
+            "parent_table_name": "Employee",
+            "child_table_name": "Customer",
+            "parent_primary_key": "EmployeeId",
+            "child_foreign_key": "SupportRepId"
+        }
+    ],
+    "METADATA_SPEC_VERSION": "V1"
+}
